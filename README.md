@@ -12,3 +12,8 @@ I'm currently checking the 2015, which is a old one
 I wanna find a way to emulate Andamiros (am.pass) service for saving data, however I'll have to use Wireshark with the VM (I made it run on a virtual machine)
 
 Any new changes will go here, or in the project documentation, I'll try to include screenshots, any help is welcome
+
+
+# If you wanna help in the project, hit me up in reddit or send me a message, so I can add you to the private repo that includes private files that might take down this repository due DMCA 
+
+https://www.reddit.com/u/Forsaken_Sir5858
